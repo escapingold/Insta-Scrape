@@ -26,7 +26,9 @@ To install these dependencies, run the following command:
 
 ```bash
 pip install -r requirements.txt
-
+```
 ##Contact 📬
 
-If you need help or have any questions, feel free to contact the developer. You can reach out to me on Telegram at @escapingold. 💬
+If you need help or have any questions, feel free to contact the developer. You can reach out to me on Telegram at @escapingold.
+- https://t.me/py_hubs
+- https://t.me/escapingold
