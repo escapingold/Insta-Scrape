@@ -1,6 +1,6 @@
-# Insta-Scrape 📸
+# Insta-Scrape Telegram Bot 📸
 
-## Instagram OSINT Scraper 🔍
+## Telegram-Bot: IG-Osint 🔍
 
 ### Overview
 This Python script is designed to scrape publicly available information from Instagram usernames for open-source intelligence (OSINT) purposes. It gathers various details such as user profiles, posts, follower/following count, bio information, and more, directly from Instagram's publicly accessible data. 🌍
